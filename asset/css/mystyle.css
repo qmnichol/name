@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav-dropdown ul li {
+    list-style: none;
+}
+
+.text-white {
+    color: rgb(5, 5, 5)!important;
+}
+
+.portfolio-navbar .navbar-nav .nav-link {
+    font-weight: 700;
+    padding: 2rem .1rem;
+    font-size: 20px;
+}
+
+.btn-font-size
+{
+    font-size: 15px;
+}
+.job-offer h3 {
+ font-weight: 400px;
+}
